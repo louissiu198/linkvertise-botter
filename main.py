@@ -1,6 +1,5 @@
 from starlette.responses import HTMLResponse
 from concurrent.futures import ThreadPoolExecutor, wait
-from discord_webhook import DiscordEmbed, DiscordWebhook
 from tls_client import Session
 from threading import Lock, Thread
 from datetime import date
