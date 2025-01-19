@@ -1,4 +1,4 @@
 # Linkvertise Botter
-### Patched, code only for refering 
-Don't dm me to fix, new version is private
-Will be up on cyberbotting v2
+### Patched, code only for reference 
+Don't dm me to fix it, the new version is private
+- Will be up on cyberbotting v2
